@@ -1,10 +1,3 @@
-# UI Lab 1
-## Результат роботи TUIdemo
-<img src="https://github.com/ppc-ntu-khpi/35-tui-1-un-know-n/blob/master/result.png">
-
-**Код файлу** ```TUIdemo.java```**:**  
-
-``` java
 import com.mybank.data.DataSource;
 import com.mybank.domain.*;
 import jexer.TAction;
@@ -102,4 +95,3 @@ public class TUIdemo extends TApplication {
         });
     }
 }
-```
